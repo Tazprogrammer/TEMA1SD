@@ -1,0 +1,5 @@
+TEMA1-SD PREDA ALEXANDRU
+
+In main am extras fiecare cuvant de pe linie. Astfel vom verifica daca primul cuvant de pe fiecare linie este "insert",atunci vom adauga cuvantul in tabelul hash pe pozitia corespunzatoare in functie de codul Hash, doar daca acesta nu exista deja. Acest lucru il vom verifica cu 2 variabile aparitie si aparitie1,unde aparitie verifica daca lungimea cuvantului a mai aparut in lista generica de pe pozitia aferenta codului, iar aparitie1 verifica daca cuvantul a mai aparut in lista,iar daca da ii incrementeaza nr de aparitii cu 1.Daca aparitii1 este 0 atunci insereaza cuvantul in lista generica corespunzatoare lungimii sale.
+Daca primul cuvant de pe linie este "print" se va verifica daca este doar "print" pe linia respectiva, daca "print" este urmat de o litera si un numar sau daca este urmat doar de un numar.
+Pentru prima varianta se va afisa tabela cu functia AfiTH.Pentru a doua varianta se vor extrage litera si numarul si se apela functia afisarelitera, iar pentru a treia varianta se va apela functia afisarelungime.
